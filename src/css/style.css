@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
 .author {
     display: inline-block;
     text-align: center;
@@ -11,6 +15,7 @@
 .media {
     width: 60%;
     margin-left: 20%;
+    text-align: center;
 }
 
 .title {
@@ -28,4 +33,12 @@
 
 .author a{
     font-size: 1.3em;
+    color: black;
+}
+
+.arxiv {
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+    font-size: 1.5em;
+    color: black;
 }
