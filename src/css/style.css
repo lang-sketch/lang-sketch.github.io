@@ -1,9 +1,26 @@
 .author {
     display: inline-block;
-    margin-right: 20px;
     text-align: center;
 }
 
 .authors {
     text-align: center;
+}
+
+.media {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.title {
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    font-size: 2.5em;
+    line-height: 150%;
+}
+
+.abstract {
+    font-size: 1.5em;
+    line-height: 120%;
 }
